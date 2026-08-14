@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ssd1306_custom")(type "KiCad")(uri "/home/evan/kicad/kicad_symbols/kicad-ssd1306-oled-library-main/SSD1306-128x64_OLED.kicad_sym")(options "")(descr ""))
+)
