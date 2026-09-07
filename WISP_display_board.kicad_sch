@@ -2485,9 +2485,9 @@
 		)
 		(uuid da6ec5ce-1040-4c52-b5d1-5a2ab6dad32b)
 	)
-	(text "TEST-BOARD"
+	(text "CTRL_CONNECTION"
 		(exclude_from_sim no)
-		(at 276.098 175.514 0)
+		(at 250.19 168.91 0)
 		(effects
 			(font
 				(face "KiCad Font")
@@ -2509,7 +2509,7 @@
 	)
 	(text "SENSORS"
 		(exclude_from_sim no)
-		(at 36.068 170.688 0)
+		(at 33.528 169.164 0)
 		(effects
 			(font
 				(face "KiCad Font")
