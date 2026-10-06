@@ -1022,7 +1022,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:LED_Dual_AAKK"
+		(symbol "Device:LED_Dual_AKAK"
 			(pin_names
 				(offset 0)
 				(hide yes)
@@ -1038,7 +1038,7 @@
 					)
 				)
 			)
-			(property "Value" "LED_Dual_AAKK"
+			(property "Value" "LED_Dual_AKAK"
 				(at 0 -6.35 0)
 				(effects
 					(font
@@ -1064,7 +1064,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Dual LED, cathodes on pins 3 and 4"
+			(property "Description" "Dual LED, cathodes on pins 2 and 4"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1091,7 +1091,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "LED_Dual_AAKK_0_1"
+			(symbol "LED_Dual_AKAK_0_1"
 				(polyline
 					(pts
 						(xy -5.08 2.54) (xy 2.032 2.54)
@@ -1224,7 +1224,7 @@
 					)
 				)
 			)
-			(symbol "LED_Dual_AAKK_1_1"
+			(symbol "LED_Dual_AKAK_1_1"
 				(pin input line
 					(at -7.62 2.54 0)
 					(length 3.048)
@@ -1253,7 +1253,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1271,7 +1271,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5608,6 +5608,80 @@
 		(uuid "ff52c8c4-931f-45c2-894b-3b8834ab6335")
 	)
 	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 86.36 27.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "00f2497b-2efc-4d6b-b1b4-7771be1aa4a9")
+		(property "Reference" "D9"
+			(at 86.233 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 86.233 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 87.122 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 87.122 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 86.36 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "e917d40c-b006-4e05-a4d9-57f20b2481c1")
+		)
+		(pin "1"
+			(uuid "92354a83-5650-48f8-8cba-9bedb43d0a83")
+		)
+		(pin "2"
+			(uuid "36ea5c6e-4a37-4bd5-a469-af2d648f5b43")
+		)
+		(pin "4"
+			(uuid "23e22c6c-c04e-4973-b6a5-1a9d59f029d0")
+		)
+		(instances
+			(project "WISP_display_board"
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 101.6 195.58 180)
 		(unit 1)
@@ -6076,6 +6150,80 @@
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "#PWR050")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 86.36 153.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0b82df5e-a1e4-412d-b417-b59015a622c1")
+		(property "Reference" "D16"
+			(at 86.233 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 86.233 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 87.122 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 87.122 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 86.36 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "704b650a-8791-4216-ba3e-5a387ed58122")
+		)
+		(pin "1"
+			(uuid "d44d56a9-e25e-45e3-84b3-3065984c579e")
+		)
+		(pin "2"
+			(uuid "017ee064-060b-4010-8193-b009a24e5c0d")
+		)
+		(pin "4"
+			(uuid "e6a9d72a-794c-480d-9776-5a5a2fc08944")
+		)
+		(instances
+			(project "WISP_display_board"
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -6717,80 +6865,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 40.64 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "16e31f15-c990-4083-8741-c2c10c37f608")
-		(property "Reference" "D5"
-			(at 40.513 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 40.513 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 41.402 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 41.402 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 40.64 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f03c71cb-5598-433a-8352-f4b0e693ed33")
-		)
-		(pin "3"
-			(uuid "5b8e638e-3756-4d0c-b570-8180720bb09a")
-		)
-		(pin "2"
-			(uuid "25b5f035-b1dc-468c-aa78-02d78988984a")
-		)
-		(pin "4"
-			(uuid "97a34a05-e1f7-415d-9089-2d369ea050a9")
-		)
-		(instances
-			(project "WISP_display_board"
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 74.93 83.82 90)
 		(unit 1)
@@ -6919,80 +6993,6 @@
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 40.64 45.72 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1a871578-7ca7-4bf4-82c7-2c7a95026370")
-		(property "Reference" "D2"
-			(at 40.513 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 40.513 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 41.402 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 41.402 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 40.64 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0418f4f3-e9fb-48a4-bc78-00598f674a2d")
-		)
-		(pin "3"
-			(uuid "b42d629a-ac32-4c7d-98f1-f3d33524e644")
-		)
-		(pin "2"
-			(uuid "6acaf5e6-f4e0-42d0-8048-760d300ba9ea")
-		)
-		(pin "4"
-			(uuid "63905940-3958-4750-b956-b758649dca5e")
-		)
-		(instances
-			(project "WISP_display_board"
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -7656,6 +7656,80 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 40.64 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2f6041e9-d78d-4735-bc67-6d513e76d5fe")
+		(property "Reference" "D2"
+			(at 40.513 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 40.513 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 41.402 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 41.402 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 40.64 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "554c599c-6451-484e-b975-d801951d9ecc")
+		)
+		(pin "1"
+			(uuid "7816a506-9b0c-4839-a141-f54666f9fa08")
+		)
+		(pin "2"
+			(uuid "3541c8ae-e39a-4753-82f8-2608e13635bf")
+		)
+		(pin "4"
+			(uuid "dbe7ed76-2eb3-4d26-8bdc-249b69b5450f")
+		)
+		(instances
+			(project "WISP_display_board"
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 93.98 63.5 90)
 		(unit 1)
@@ -7783,80 +7857,6 @@
 			(project ""
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "#PWR047")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 86.36 45.72 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "31f85164-54f9-4de3-b9dc-a382e166e933")
-		(property "Reference" "D10"
-			(at 86.233 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 86.233 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 87.122 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 87.122 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 86.36 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "42776f1e-55a0-46e7-a745-d32c6ea2cd78")
-		)
-		(pin "3"
-			(uuid "725c6321-9afe-4a29-90ba-e7d9b56703be")
-		)
-		(pin "2"
-			(uuid "039addca-3a2c-46de-b4eb-69ef34c7fbf8")
-		)
-		(pin "4"
-			(uuid "18828e49-9f75-49ac-9318-d3ca0c98650c")
-		)
-		(instances
-			(project "WISP_display_board"
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -8379,80 +8379,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 130.81 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3b216221-8640-4327-a03e-d59bb1929dd0")
-		(property "Reference" "D19"
-			(at 130.683 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 130.683 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 131.572 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 131.572 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 130.81 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6e395af7-86b1-4b01-92a5-84daa0b70e99")
-		)
-		(pin "3"
-			(uuid "856703e2-01ea-4397-8e23-20bab249d377")
-		)
-		(pin "2"
-			(uuid "96f99147-7b6a-451b-9ed3-179fc5fbc0b1")
-		)
-		(pin "4"
-			(uuid "21e5ad2f-cb82-4d93-a12a-db86480a27b8")
-		)
-		(instances
-			(project "WISP_display_board"
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 74.93 66.04 90)
 		(unit 1)
@@ -8514,6 +8440,80 @@
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "R30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 86.36 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3bbb6f2f-9940-4e2e-895f-1df7ad34da89")
+		(property "Reference" "D12"
+			(at 86.233 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 86.233 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 87.122 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 87.122 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 86.36 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "9ff41003-b15c-42f5-b52f-d38cba1a1232")
+		)
+		(pin "1"
+			(uuid "503b7cd5-059e-41d5-86d5-753900ff7ece")
+		)
+		(pin "2"
+			(uuid "0746100b-19dd-4b65-b877-7fe29e7931a0")
+		)
+		(pin "4"
+			(uuid "b5ea32a6-dab1-4e7e-aaa0-fb1fa2c0907a")
+		)
+		(instances
+			(project "WISP_display_board"
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -8724,154 +8724,6 @@
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "Brd7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 86.36 27.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "46712a17-2e92-4874-8f94-b84c93930c53")
-		(property "Reference" "D9"
-			(at 86.233 16.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 86.233 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 87.122 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 87.122 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 86.36 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "029e681b-d814-42c1-9c62-bdd05f8217b9")
-		)
-		(pin "3"
-			(uuid "9bddf5e8-91d6-4667-8472-479d54faf81b")
-		)
-		(pin "2"
-			(uuid "ed28a2bb-0913-49bb-8c0d-f19075ce3ba3")
-		)
-		(pin "4"
-			(uuid "25744313-d18a-4014-9a32-1b68d824cdab")
-		)
-		(instances
-			(project "WISP_display_board"
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 130.81 27.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "478ee003-b56d-473a-9b64-5673cd70f43d")
-		(property "Reference" "D17"
-			(at 130.683 16.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 130.683 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 131.572 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 131.572 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 130.81 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f6211337-5f2f-4453-a2c2-3209f122abd1")
-		)
-		(pin "3"
-			(uuid "6c8bb19a-4ca1-4b7a-a1db-c24cb6aed24a")
-		)
-		(pin "2"
-			(uuid "ec71b226-83a3-4ea0-ad13-2e7476e4fe44")
-		)
-		(pin "4"
-			(uuid "17d15d52-9db1-427a-ba5e-ec0011084b35")
-		)
-		(instances
-			(project "WISP_display_board"
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -9618,154 +9470,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 86.36 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5a8f39bc-3e1f-4bf1-8e32-014f3cc704b6")
-		(property "Reference" "D11"
-			(at 86.233 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 86.233 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 87.122 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 87.122 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 86.36 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5ff3fa41-2886-4c54-be53-b0680c754252")
-		)
-		(pin "3"
-			(uuid "97074c65-4acd-4002-aaa0-f18cb48a5ff1")
-		)
-		(pin "2"
-			(uuid "09f580e1-e7ad-4187-bc94-22dc2700ec2b")
-		)
-		(pin "4"
-			(uuid "f615287b-96b4-49ff-84e4-645f6c330908")
-		)
-		(instances
-			(project "WISP_display_board"
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 40.64 118.11 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5f6b56e7-cd3b-4155-b97f-44d32e9c681a")
-		(property "Reference" "D6"
-			(at 40.513 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 40.513 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 41.402 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 41.402 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 40.64 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "606d6658-c0c4-4ef0-b1f5-5c36290678f2")
-		)
-		(pin "3"
-			(uuid "a051d3ff-a7d8-40cc-8fd8-00cdd12acb2e")
-		)
-		(pin "2"
-			(uuid "1df8471a-8262-4327-99fa-097f9737bf22")
-		)
-		(pin "4"
-			(uuid "3568a7ed-7073-49ea-8aed-374a09a88b15")
-		)
-		(instances
-			(project "WISP_display_board"
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 74.93 151.13 90)
 		(unit 1)
@@ -9960,6 +9664,80 @@
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 130.81 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "643d4212-4036-4f2f-bcc0-2e336d4adf75")
+		(property "Reference" "D20"
+			(at 130.683 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 130.683 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 131.572 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 131.572 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 130.81 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "aeea4c23-30bf-43c9-8691-23a2a5af1b8d")
+		)
+		(pin "1"
+			(uuid "b9aef112-5c04-47af-a83e-ad5ce8c2ca5d")
+		)
+		(pin "2"
+			(uuid "114a0141-e652-4d18-945b-0ab414751108")
+		)
+		(pin "4"
+			(uuid "51c2e9b5-4180-4190-80da-8688a22c74cd")
+		)
+		(instances
+			(project "WISP_display_board"
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -10167,80 +9945,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 86.36 153.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "69f96537-bee4-411f-a979-0d0044ed2f56")
-		(property "Reference" "D16"
-			(at 86.233 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 86.233 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 87.122 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 87.122 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 86.36 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9a2aa428-c021-4719-8a83-edc3abebc673")
-		)
-		(pin "3"
-			(uuid "0e80b153-0611-4f35-9b25-580b34a67187")
-		)
-		(pin "2"
-			(uuid "a8eb538d-7a53-4e55-af18-b329e6817c02")
-		)
-		(pin "4"
-			(uuid "70873f03-ec4a-4c4f-b0ae-e0739b5846ba")
-		)
-		(instances
-			(project "WISP_display_board"
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 106.68 193.04 0)
 		(unit 1)
@@ -10377,6 +10081,80 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 130.81 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6eeda202-3466-45a7-9071-07b94967d551")
+		(property "Reference" "D18"
+			(at 130.683 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 130.683 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 131.572 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 131.572 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 130.81 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "09872704-b9de-49d7-9d88-3d1c8f1f2bfa")
+		)
+		(pin "1"
+			(uuid "dd9108a8-e1da-4da9-9546-889a9bae730b")
+		)
+		(pin "2"
+			(uuid "e296f4a3-3190-4e28-a07e-c3f40dc84daf")
+		)
+		(pin "4"
+			(uuid "037cf4e4-140e-414d-b852-5932b536d37d")
+		)
+		(instances
+			(project "WISP_display_board"
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 119.38 48.26 90)
 		(unit 1)
@@ -10438,80 +10216,6 @@
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "R52")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 86.36 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "73534109-dee7-4568-9380-3f2cdecbc81e")
-		(property "Reference" "D13"
-			(at 86.233 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 86.233 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 87.122 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 87.122 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 86.36 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dfa392d6-9d41-4095-87d3-741168d3ca07")
-		)
-		(pin "3"
-			(uuid "178ccb83-2901-4d3a-a246-910585fc5880")
-		)
-		(pin "2"
-			(uuid "35beaee0-0e56-45f1-98c3-ddd49d78f3e0")
-		)
-		(pin "4"
-			(uuid "321cf1a9-1fe5-4a0c-afa8-ac0023df7ee3")
-		)
-		(instances
-			(project "WISP_display_board"
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -10779,6 +10483,80 @@
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 40.64 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7bc23d48-16f2-4910-9174-a9fb98f46b96")
+		(property "Reference" "D6"
+			(at 40.513 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 40.513 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 41.402 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 41.402 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 40.64 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "daa1f676-11a6-47f3-ac26-b03c3456105b")
+		)
+		(pin "1"
+			(uuid "0991ab4c-e72d-40cb-a53a-74035b1167d6")
+		)
+		(pin "2"
+			(uuid "baaedd87-3384-4cef-b64e-50292ebf849e")
+		)
+		(pin "4"
+			(uuid "6b6f07f4-c731-4a9b-b2f0-c5113f7fc7f8")
+		)
+		(instances
+			(project "WISP_display_board"
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -11131,80 +10909,6 @@
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "#PWR031")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 40.64 81.28 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "80357c0b-46b4-4e2b-b648-64cd44b71a6a")
-		(property "Reference" "D4"
-			(at 40.513 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 40.513 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 41.402 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 41.402 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 40.64 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "03a270c2-603c-4cef-bd5c-9d158a9388b2")
-		)
-		(pin "3"
-			(uuid "a61b8a32-5264-400e-b0c4-0d80ae837c02")
-		)
-		(pin "2"
-			(uuid "51b4336c-baff-467f-adb7-0c0333db6705")
-		)
-		(pin "4"
-			(uuid "2fdac904-d002-42dc-82bc-a729b2f98b4b")
-		)
-		(instances
-			(project "WISP_display_board"
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -12084,6 +11788,80 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 86.36 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "91d82c1c-c6c1-43ea-a09c-0f4f72b55905")
+		(property "Reference" "D11"
+			(at 86.233 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 86.233 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 87.122 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 87.122 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 86.36 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "6f91355d-ed47-4323-a0eb-69d73a2b60e1")
+		)
+		(pin "1"
+			(uuid "27790f31-ea46-4e2e-9446-6911514fea76")
+		)
+		(pin "2"
+			(uuid "e9b06ddf-bbc9-4bdd-abc1-3a50c873dc2f")
+		)
+		(pin "4"
+			(uuid "5ce1dda7-549e-4d60-9cce-7b43775427a1")
+		)
+		(instances
+			(project "WISP_display_board"
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 255.27 219.71 0)
 		(unit 1)
@@ -12142,80 +11920,6 @@
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "H2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 40.64 153.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "92e673f5-a6c9-4051-a354-706fdcf9c422")
-		(property "Reference" "D8"
-			(at 40.513 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 40.513 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 41.402 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 41.402 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 40.64 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0f64a5ff-5eef-450d-9d59-543a189482c4")
-		)
-		(pin "3"
-			(uuid "8c9cbb8c-b307-4ec6-85dd-20cc32f1cea3")
-		)
-		(pin "2"
-			(uuid "11a5061b-66bd-4533-9c71-6bd286f0fb4e")
-		)
-		(pin "4"
-			(uuid "ab47c968-c348-48be-ab1c-97e76f568d18")
-		)
-		(instances
-			(project "WISP_display_board"
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -12283,80 +11987,6 @@
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "R38")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 40.64 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9ee57905-714e-4864-bb2a-b9481d20136d")
-		(property "Reference" "D3"
-			(at 40.513 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 40.513 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 41.402 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 41.402 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 40.64 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b104ce4e-ddd8-46a4-8bec-3ec13d2ea6b7")
-		)
-		(pin "3"
-			(uuid "ea1982a2-de2c-4b86-8c40-2ee6f2a1c23a")
-		)
-		(pin "2"
-			(uuid "04744b31-4fa3-4344-89a2-a27c346beaee")
-		)
-		(pin "4"
-			(uuid "46943624-4316-4917-8908-829dcf9e4b2f")
-		)
-		(instances
-			(project "WISP_display_board"
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -12880,6 +12510,80 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 40.64 27.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ad839267-b234-4f72-953d-c7af330599be")
+		(property "Reference" "D1"
+			(at 40.513 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 40.513 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 41.402 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 41.402 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 40.64 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "429a3076-9484-48f1-a955-c86ec96eba5a")
+		)
+		(pin "1"
+			(uuid "a44b4cc3-8bd8-460c-8eab-103f10534e5a")
+		)
+		(pin "2"
+			(uuid "a5133d3d-be50-4d02-b1c9-92f228379110")
+		)
+		(pin "4"
+			(uuid "f7e53bd5-f2c6-443a-8db6-8a527611ad8c")
+		)
+		(instances
+			(project ""
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 74.93 30.48 90)
 		(unit 1)
@@ -12947,25 +12651,25 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 86.36 81.28 0)
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 86.36 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b4dd8895-98bf-4e30-8b27-04a5419686ae")
-		(property "Reference" "D12"
-			(at 86.233 69.85 0)
+		(uuid "aff06530-4335-4272-b0ac-4408d30dd1e6")
+		(property "Reference" "D13"
+			(at 86.233 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 86.233 72.39 0)
+		(property "Value" "LED_Dual_AKAK"
+			(at 86.233 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12973,7 +12677,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 87.122 81.28 0)
+			(at 87.122 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12982,7 +12686,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 87.122 81.28 0)
+			(at 87.122 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12990,31 +12694,31 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 86.36 81.28 0)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 86.36 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "1"
-			(uuid "debeddbc-9fb7-4515-86c2-d0fd14613ab3")
 		)
 		(pin "3"
-			(uuid "639c9246-d849-4b4d-9687-1d2afd07437d")
+			(uuid "4fa83fed-ee72-44c2-8b62-eb1c5d64534b")
+		)
+		(pin "1"
+			(uuid "8b6aad8f-a5e1-40fe-8316-264f948fb92f")
 		)
 		(pin "2"
-			(uuid "b0f3c870-1c57-4a01-b5da-0f79091f0a54")
+			(uuid "616e919f-82dd-4c3e-a04d-22816e91f990")
 		)
 		(pin "4"
-			(uuid "c47a7827-b656-489d-ae40-ebd0119e1c9c")
+			(uuid "29915a00-2293-4b19-a977-86d4acb8b1d0")
 		)
 		(instances
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D12")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -13157,6 +12861,154 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 130.81 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b9dd85a3-2a09-4858-bdec-1b309d6f5b5d")
+		(property "Reference" "D19"
+			(at 130.683 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 130.683 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 131.572 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 131.572 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 130.81 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "e4701fb6-547f-4798-818d-946c8ea3a4ee")
+		)
+		(pin "1"
+			(uuid "5134ddcf-0941-439e-b5da-e8189be0029f")
+		)
+		(pin "2"
+			(uuid "e11e5f88-c51b-41f9-bd6d-ca005fd8fa4c")
+		)
+		(pin "4"
+			(uuid "76c0c090-0975-4f91-a8ab-0b6cf021770b")
+		)
+		(instances
+			(project "WISP_display_board"
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 86.36 135.89 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bac7820f-7b06-47fc-a39d-a6c2b99f3fb5")
+		(property "Reference" "D15"
+			(at 86.233 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 86.233 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 87.122 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 87.122 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 86.36 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "800d2b0b-ff60-4ca9-802a-511876c41e5f")
+		)
+		(pin "1"
+			(uuid "e60b97c2-60a6-4634-87ee-4796083e9226")
+		)
+		(pin "2"
+			(uuid "a7a4be71-e184-4d46-a41e-0290f192e345")
+		)
+		(pin "4"
+			(uuid "8e5eb54d-d8d3-49e2-8ae3-174996f41c0f")
+		)
+		(instances
+			(project "WISP_display_board"
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 256.54 34.29 0)
 		(unit 1)
@@ -13283,6 +13135,80 @@
 			(project ""
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "#PWR042")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 40.64 135.89 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bdc4997e-6ecd-4095-b34c-d6fce385f528")
+		(property "Reference" "D7"
+			(at 40.513 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 40.513 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 41.402 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 41.402 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 40.64 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "bb48fc5c-5650-41a1-bd8b-cacbfa20ed09")
+		)
+		(pin "1"
+			(uuid "daed24ec-24ad-4852-8177-7e3397208f58")
+		)
+		(pin "2"
+			(uuid "251bd88c-af2b-428d-8680-b5d92eb87b1c")
+		)
+		(pin "4"
+			(uuid "60461fcb-c47c-4ed3-a245-f3dfadbb1f77")
+		)
+		(instances
+			(project "WISP_display_board"
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -13417,6 +13343,154 @@
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "R53")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 130.81 27.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c15b5b3a-92f2-4f6d-8eab-e2939ba1ea4d")
+		(property "Reference" "D17"
+			(at 130.683 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 130.683 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 131.572 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 131.572 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 130.81 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "819e0b1c-ac1f-44f3-90e3-09133bd0efff")
+		)
+		(pin "1"
+			(uuid "d72222a0-9a4e-4599-bd3a-986f7c2be2eb")
+		)
+		(pin "2"
+			(uuid "6906763d-2aa5-4fad-afa8-e40ea9170c7d")
+		)
+		(pin "4"
+			(uuid "652d36ae-1d66-46b9-9591-a57b45f28b2d")
+		)
+		(instances
+			(project "WISP_display_board"
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 40.64 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c327ee0d-f2a3-439d-b1ff-5a09424e19e9")
+		(property "Reference" "D4"
+			(at 40.513 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 40.513 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 41.402 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 41.402 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 40.64 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "bec3bcb1-e920-4515-b64c-68c04fcc28db")
+		)
+		(pin "1"
+			(uuid "0e4e2f7a-c9b4-4eea-ba17-18064948cc24")
+		)
+		(pin "2"
+			(uuid "90ed3655-9bf6-4181-88d6-563931c93ac2")
+		)
+		(pin "4"
+			(uuid "cc7bb7b2-b756-4d3f-8f46-09a816270291")
+		)
+		(instances
+			(project "WISP_display_board"
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -13633,80 +13707,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 86.36 135.89 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c6dc03de-1658-4fb2-a97b-28ac7d45669f")
-		(property "Reference" "D15"
-			(at 86.233 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 86.233 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 87.122 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 87.122 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 86.36 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c29b91cc-c3b6-4db0-869f-cb124fd4c5f7")
-		)
-		(pin "3"
-			(uuid "0639ec47-d4af-489d-9e2c-c18438ae89ce")
-		)
-		(pin "2"
-			(uuid "b3768de0-2769-4192-b02b-b578262786a0")
-		)
-		(pin "4"
-			(uuid "e8e6ebac-6500-49ce-93a9-85b3516b325f")
-		)
-		(instances
-			(project "WISP_display_board"
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "74xx:74HC595")
 		(at 300.99 52.07 0)
 		(unit 1)
@@ -13880,6 +13880,80 @@
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 40.64 153.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c883a5b8-7dce-4441-9885-ea9580ac68d9")
+		(property "Reference" "D8"
+			(at 40.513 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 40.513 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 41.402 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 41.402 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 40.64 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "9db903d1-cbb4-4460-8744-413f4570541a")
+		)
+		(pin "1"
+			(uuid "f202e8b2-f110-4761-b577-d82894466dd3")
+		)
+		(pin "2"
+			(uuid "41b16e81-00dd-4601-b1c9-7dab6328948b")
+		)
+		(pin "4"
+			(uuid "cc5670c5-ff91-49fe-b11d-a211cf461a09")
+		)
+		(instances
+			(project "WISP_display_board"
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -14089,80 +14163,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 130.81 81.28 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cce7395d-fdc9-459a-bef3-1536a5896ed0")
-		(property "Reference" "D20"
-			(at 130.683 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 130.683 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 131.572 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 131.572 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 130.81 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0433280d-f22a-4f62-aa35-3c0eedb1109d")
-		)
-		(pin "3"
-			(uuid "bf29814f-e1a7-4461-893a-434a1d8f4164")
-		)
-		(pin "2"
-			(uuid "e76e0786-5fa1-4a9f-a597-2d4242a8f464")
-		)
-		(pin "4"
-			(uuid "57bbb987-372c-41d9-9731-917ec0711902")
-		)
-		(instances
-			(project "WISP_display_board"
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 74.93 120.65 90)
 		(unit 1)
@@ -14288,80 +14288,6 @@
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "H3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 130.81 45.72 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d2940b3d-568e-4655-9e69-2290c48d5b03")
-		(property "Reference" "D18"
-			(at 130.683 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 130.683 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 131.572 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 131.572 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 130.81 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9290ef60-6241-4693-b143-d64fd3b7a413")
-		)
-		(pin "3"
-			(uuid "8fb0d907-1d88-4988-a9d1-7facb8d31dbb")
-		)
-		(pin "2"
-			(uuid "f28d8267-c587-49c9-a766-29e8cbff4877")
-		)
-		(pin "4"
-			(uuid "1e5a5d28-2bdf-4a01-bbae-034ed3948767")
-		)
-		(instances
-			(project "WISP_display_board"
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -14502,80 +14428,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 40.64 135.89 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d3ad1475-6eb9-47bf-8a4b-4884250b6091")
-		(property "Reference" "D7"
-			(at 40.513 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 40.513 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 41.402 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 41.402 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 40.64 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "566f0bcb-2949-43eb-a67f-504ec8ecaf70")
-		)
-		(pin "3"
-			(uuid "1d4bcdf1-ed0b-4f31-959f-d2b06a226b6c")
-		)
-		(pin "2"
-			(uuid "6ade30d7-dfad-4b5f-866d-ec7d08f7d6c5")
-		)
-		(pin "4"
-			(uuid "b9944b89-1348-41b3-91a1-4bcbdb4c144e")
-		)
-		(instances
-			(project "WISP_display_board"
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 29.21 97.79 90)
 		(unit 1)
@@ -14637,80 +14489,6 @@
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "R9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 86.36 118.11 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d667f35a-f70b-446b-a5ac-4ef862cf7547")
-		(property "Reference" "D14"
-			(at 86.233 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 86.233 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 87.122 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 87.122 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 86.36 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b49d9d48-9bf4-42e6-8c1d-79c157305451")
-		)
-		(pin "3"
-			(uuid "4bb62815-3a60-4129-9fdc-3906b259f673")
-		)
-		(pin "2"
-			(uuid "1cb08af9-e724-4fa8-8400-09130f7c717e")
-		)
-		(pin "4"
-			(uuid "82d28f48-2bff-4163-a28f-e90f9efbdea3")
-		)
-		(instances
-			(project "WISP_display_board"
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -14890,6 +14668,80 @@
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 40.64 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d8d16590-d4a4-4948-97a4-cd8ef830beaa")
+		(property "Reference" "D5"
+			(at 40.513 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 40.513 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 41.402 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 41.402 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 40.64 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "02f0865e-a7b3-4182-9e52-3ec69f80c348")
+		)
+		(pin "1"
+			(uuid "92fc701f-8f87-4365-957e-7896bc2d10ad")
+		)
+		(pin "2"
+			(uuid "fb9648c3-d34d-4c9c-a631-daf8bc07d6b2")
+		)
+		(pin "4"
+			(uuid "18ad7813-ef93-467a-b156-09f92315a8e0")
+		)
+		(instances
+			(project "WISP_display_board"
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -15291,6 +15143,80 @@
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "#PWR043")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 40.64 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "df70eb94-6b82-42f4-95ec-a280e47d9cea")
+		(property "Reference" "D3"
+			(at 40.513 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 40.513 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 41.402 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 41.402 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 40.64 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "3f2efd3f-6d45-473a-b4b0-9b1a192275fb")
+		)
+		(pin "1"
+			(uuid "495df6eb-ac0b-4b11-80ed-110da1c71f37")
+		)
+		(pin "2"
+			(uuid "2d9221a8-50c5-4886-8218-65a9aadc206d")
+		)
+		(pin "4"
+			(uuid "8860ddbb-c737-4763-ae96-2004af591196")
+		)
+		(instances
+			(project "WISP_display_board"
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -15908,6 +15834,80 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 86.36 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e49fb201-ff74-4a0a-8daf-3e8439730c43")
+		(property "Reference" "D14"
+			(at 86.233 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 86.233 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 87.122 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 87.122 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 86.36 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "2ee5517c-117a-4f10-864d-f7f52989fc56")
+		)
+		(pin "1"
+			(uuid "c20b52a8-f916-4584-8208-40921df338a2")
+		)
+		(pin "2"
+			(uuid "0ece0380-1893-4ca9-b254-3a5addfa1bed")
+		)
+		(pin "4"
+			(uuid "6a7e4518-59ca-481e-9daa-e2579287c8a6")
+		)
+		(instances
+			(project "WISP_display_board"
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 246.38 58.42 270)
 		(unit 1)
@@ -16107,6 +16107,80 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED_Dual_AKAK")
+		(at 86.36 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eacdc4a1-77c5-4f99-bf0d-4f3e68de976e")
+		(property "Reference" "D10"
+			(at 86.233 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED_Dual_AKAK"
+			(at 86.233 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
+			(at 87.122 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 87.122 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 86.36 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "68a92166-116e-4308-8e65-722e4818590c")
+		)
+		(pin "1"
+			(uuid "a9d51923-f37b-4210-a2b2-11f435821a05")
+		)
+		(pin "2"
+			(uuid "bc843f18-4bab-4114-bec7-0930c322052c")
+		)
+		(pin "4"
+			(uuid "08411e27-c081-4ce6-a497-7ef0cc36ec98")
+		)
+		(instances
+			(project "WISP_display_board"
+				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
+					(reference "D10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 52.07 213.36 0)
 		(unit 1)
@@ -16236,80 +16310,6 @@
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
 					(reference "#PWR064")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED_Dual_AAKK")
-		(at 40.64 27.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f1709c8c-f8e6-4c79-82c3-5aedb35436b7")
-		(property "Reference" "D1"
-			(at 40.513 16.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED_Dual_AAKK"
-			(at 40.513 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_Kingbright_KPBD-3224"
-			(at 41.402 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 41.402 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual LED, cathodes on pins 3 and 4"
-			(at 40.64 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3ebd7970-a6dc-4a45-ad20-7e57e4ac47ed")
-		)
-		(pin "3"
-			(uuid "10ebda26-7c14-4131-9192-e6d21a5c916d")
-		)
-		(pin "2"
-			(uuid "17435397-f1b9-4e85-978d-0b32f02ab6b8")
-		)
-		(pin "4"
-			(uuid "a8b11c02-9977-4d1b-9e8a-f35b0025139d")
-		)
-		(instances
-			(project ""
-				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
-					(reference "D1")
 					(unit 1)
 				)
 			)
