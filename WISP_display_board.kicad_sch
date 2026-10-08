@@ -2924,6 +2924,10 @@
 		(uuid "2197d443-c79c-4418-b494-d282075f688b")
 	)
 	(no_connect
+		(at 311.15 64.77)
+		(uuid "5906bc3c-5a4e-4614-8700-1d6b44477911")
+	)
+	(no_connect
 		(at 181.61 240.03)
 		(uuid "610cb06e-8b6b-4e6a-ad14-5a48ec722fe2")
 	)
@@ -5016,16 +5020,6 @@
 			(justify right bottom)
 		)
 		(uuid "a98057d5-283d-48fe-89cc-cc4e560fbb9c")
-	)
-	(label "SER_OUT5"
-		(at 311.15 64.77 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a983b1ef-4b5d-4f0b-b74e-99184a91aa22")
 	)
 	(label "SD4"
 		(at 97.79 198.12 180)
