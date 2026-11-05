@@ -1,0 +1,232 @@
+(footprint "LED_Kingbright_KPBD-3224"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Kingbright, dual LED, red-green, dome lens, 3.2 x 2.4 mm Surface Mount LED Lamp (https://docs.rs-online.com/b881/0900766b81396b45.pdf)")
+	(tags "Kingbright dual LED KPBD-3224")
+	(property "Reference" "D16"
+		(at 0 -3.5 180)
+		(layer "F.SilkS")
+		(uuid "05549abb-dfce-4d1e-ac80-3d53ef3d1958")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LED_Dual_AKAK"
+		(at 0 4.7 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e3ac1f59-2026-4d9a-915c-530f443f794f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 90)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "381c8c0f-6fe3-4b95-a276-215d2e66d71e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Dual LED, cathodes on pins 2 and 4"
+		(at 0 0 90)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e79b0d35-7922-4c0d-93e4-6e2870512807")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
+	(sheetname "/")
+	(sheetfile "WISP_display_board.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.32 1.6)
+		(end -1.32 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c23f9075-4ee3-4b7d-8fb5-7f6a19ae659a")
+	)
+	(fp_line
+		(start 1.32 -1.6)
+		(end 1.32 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0b8c9f3c-2371-409c-9615-1750e8c6513c")
+	)
+	(fp_poly
+		(pts
+			(xy 0 2.1) (xy 0.24 2.43) (xy -0.24 2.43) (xy 0 2.1)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "d323ce88-0e24-4689-84c1-8f58f2bd6bfe")
+	)
+	(fp_line
+		(start -1.45 -2.65)
+		(end -1.45 2.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c810df05-948e-4f07-8bcc-1b5cbd2ec75d")
+	)
+	(fp_line
+		(start -1.45 2.65)
+		(end 1.45 2.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "03257c29-f358-4eaf-afc6-afff4f4b9efe")
+	)
+	(fp_line
+		(start 1.45 -2.65)
+		(end -1.45 -2.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bdec2fe8-ae2b-400e-9969-d956501dda8d")
+	)
+	(fp_line
+		(start 1.45 2.65)
+		(end 1.45 -2.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0886804e-350d-4d7d-b465-385697e91831")
+	)
+	(fp_line
+		(start -1.2 -1.6)
+		(end -1.2 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "426ca1b9-7e49-4ce1-860d-d70deba5dbfa")
+	)
+	(fp_line
+		(start -1.2 -1.6)
+		(end 1.2 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c0eaaccc-654a-4eca-99f5-9b6bc87ed04c")
+	)
+	(fp_line
+		(start -1.2 1.6)
+		(end 1.2 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "34722190-1c77-4815-8794-e31df0f13df7")
+	)
+	(fp_line
+		(start 1.2 -1.6)
+		(end 1.2 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "051c7eb0-636d-44ba-91cb-0850822c99b2")
+	)
+	(fp_rect
+		(start -0.2 1.3746)
+		(end 0.2 1.6)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "d93f14d3-3da0-4c29-88be-791d09d238e8")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.05 -0.05 90)
+		(layer "F.Fab")
+		(uuid "ca8de0c8-d178-4838-b586-8705981f728e")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.7 -1.6 270)
+		(size 1.6 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "14ff4ee6-c323-40f9-b34f-29aa010a3adc")
+	)
+	(pad "2" smd oval
+		(at -0.7 1.6 270)
+		(size 1.6 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0f2d1368-865c-4f6f-818c-d2ef25850882")
+	)
+	(pad "3" smd oval
+		(at 0.7 -1.6 270)
+		(size 1.6 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "bc1f35bf-bc28-49ac-bdf5-2403449a0ece")
+	)
+	(pad "4" smd oval
+		(at 0.7 1.6 270)
+		(size 1.6 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "485f5c20-8639-4eb3-830a-48ecc8e9326f")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Kingbright_KPBD-3224.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
