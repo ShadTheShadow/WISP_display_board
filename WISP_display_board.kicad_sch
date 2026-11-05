@@ -5840,6 +5840,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 86.36 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 86.36 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 86.36 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "e917d40c-b006-4e05-a4d9-57f20b2481c1")
 		)
@@ -5927,6 +5960,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 101.6 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "311-4.70KCRCT-ND"
+			(at 101.6 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 101.6 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cc282a49-9acf-4bab-a0da-ae705dc632a7")
 		)
@@ -5998,6 +6064,39 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 106.68 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 106.68 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "311-4.70KCRCT-ND"
+			(at 106.68 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
 			(at 106.68 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -6325,6 +6424,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 248.92 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "399-C0805C104K5RACTUCT-ND"
+			(at 248.92 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 248.92 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b35bd7e4-af44-4a6a-a3af-974896b2b1c1")
 		)
@@ -6484,6 +6616,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 86.36 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 86.36 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 86.36 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "704b650a-8791-4216-ba3e-5a387ed58122")
 		)
@@ -6569,6 +6734,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 119.38 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 119.38 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 119.38 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ef5063b4-271c-4401-8d34-9a4f3bc72a93")
 		)
@@ -6639,6 +6837,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 29.21 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 29.21 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 29.21 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 29.21 25.4 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6808,6 +7039,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 255.27 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" ""
+			(at 255.27 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 255.27 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
@@ -6872,6 +7136,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 29.21 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 29.21 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 29.21 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 29.21 30.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6953,6 +7250,39 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x10, script generated"
+			(at 337.82 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 337.82 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" ""
+			(at 337.82 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
 			(at 337.82 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -7066,6 +7396,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 74.93 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 74.93 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 74.93 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "67e1889e-2cbf-44f6-af8a-df9bdc500637")
 		)
@@ -7136,6 +7499,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 74.93 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 74.93 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 74.93 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 74.93 102.87 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7224,6 +7620,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 74.93 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 74.93 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 74.93 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6553a48f-d920-442e-94ec-c7b361e2a08f")
 		)
@@ -7294,6 +7723,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 29.21 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 29.21 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 29.21 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 29.21 48.26 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7452,6 +7914,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 119.38 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 119.38 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 119.38 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 119.38 30.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7856,6 +8351,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 248.92 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "399-C0805C104K5RACTUCT-ND"
+			(at 248.92 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 248.92 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d77ebaaa-a146-4889-8a96-e5869c30f187")
 		)
@@ -7928,6 +8456,39 @@
 			)
 		)
 		(property "Description" "8-bit serial in/out Shift Register 3-State Outputs"
+			(at 256.54 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 256.54 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" ""
+			(at 256.54 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" "771-74HC595D-Q100"
 			(at 256.54 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -8050,6 +8611,39 @@
 			)
 		)
 		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 40.64 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 40.64 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 40.64 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
 			(at 40.64 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -8293,6 +8887,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 29.21 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 29.21 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 29.21 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 29.21 133.35 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8620,6 +9247,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 52.07 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "311-4.70KCRCT-ND"
+			(at 52.07 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 52.07 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1313f098-6883-4930-9db5-c45a2d79e8b6")
 		)
@@ -8692,6 +9352,39 @@
 			)
 		)
 		(property "Description" "8-bit serial in/out Shift Register 3-State Outputs"
+			(at 256.54 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 256.54 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" ""
+			(at 256.54 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" "771-74HC595D-Q100"
 			(at 256.54 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -8823,6 +9516,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 29.21 66.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 29.21 66.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 29.21 66.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "eced5afb-fcd4-463d-b418-0a1226acdd06")
 		)
@@ -8902,6 +9628,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 74.93 66.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 74.93 66.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 74.93 66.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8b82d6a8-88a7-4394-86ec-cdc478c17329")
 		)
@@ -8972,6 +9731,39 @@
 			)
 		)
 		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 86.36 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 86.36 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 86.36 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
 			(at 86.36 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -9146,6 +9938,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 119.38 66.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 119.38 66.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 119.38 66.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0544c6ec-0c5c-4368-84c3-0140df719998")
 		)
@@ -9219,6 +10044,39 @@
 		)
 		(property "Description" "SSD1306 0.96 inch 128x64 OLED display module, I2C"
 			(at 60.96 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" "https://www.amazon.com/Hosyond-Display-Self-Luminous-Compatible-Raspberry/dp/B09T6SJBV5/ref=sr_1_4?crid=SJEZ59RG0EXX&dib=eyJ2IjoiMSJ9.wmW83Dmxfyl5RxdfjV1gHlwW13m-YNHOj_O7pUk8C5jqJYmRzq8MacywKWg5Dv2wmTaVyFZq2CxJDegbdNCAR7YCxPvEYPSXaQ29l_P4t78CRgBcuujnHc1YsW1g4L53WwoYLrs9QF-DHdK9tX7So8-3avAB1W46d9m1Zp4Daio-rdwJ2rlZ8YdP46bWSKFZo3_81_99zPjPqwSeY-mnpFa_skBZWjTpecRsbb56ts4.2h1lB8eYb9ngRfmEiE-NLUmpky863PITFuJGxDF_kOg&dib_tag=se&keywords=ssd1306&qid=1793919438&sprefix=ssd1306%2Caps%2C173&sr=8-4"
+			(at 60.96 256.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" ""
+			(at 60.96 256.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 60.96 256.54 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9473,6 +10331,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 52.07 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "311-4.70KCRCT-ND"
+			(at 52.07 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 52.07 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "650dc17d-2458-437f-80c4-289b347e7b51")
 		)
@@ -9543,6 +10434,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 74.93 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 74.93 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 74.93 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 74.93 48.26 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9623,6 +10547,39 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 46.99 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 46.99 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "311-4.70KCRCT-ND"
+			(at 46.99 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
 			(at 46.99 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -9794,6 +10751,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 255.27 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" ""
+			(at 255.27 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 255.27 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
@@ -9940,6 +10930,39 @@
 		)
 		(property "Description" "SSD1306 0.96 inch 128x64 OLED display module, I2C"
 			(at 115.57 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" "https://www.amazon.com/Hosyond-Display-Self-Luminous-Compatible-Raspberry/dp/B09T6SJBV5/ref=sr_1_4?crid=SJEZ59RG0EXX&dib=eyJ2IjoiMSJ9.wmW83Dmxfyl5RxdfjV1gHlwW13m-YNHOj_O7pUk8C5jqJYmRzq8MacywKWg5Dv2wmTaVyFZq2CxJDegbdNCAR7YCxPvEYPSXaQ29l_P4t78CRgBcuujnHc1YsW1g4L53WwoYLrs9QF-DHdK9tX7So8-3avAB1W46d9m1Zp4Daio-rdwJ2rlZ8YdP46bWSKFZo3_81_99zPjPqwSeY-mnpFa_skBZWjTpecRsbb56ts4.2h1lB8eYb9ngRfmEiE-NLUmpky863PITFuJGxDF_kOg&dib_tag=se&keywords=ssd1306&qid=1793919438&sprefix=ssd1306%2Caps%2C173&sr=8-4"
+			(at 115.57 232.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" ""
+			(at 115.57 232.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 115.57 232.41 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10115,6 +11138,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 52.07 257.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "311-4.70KCRCT-ND"
+			(at 52.07 257.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 52.07 257.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3355835e-f012-4d94-b16b-ec9cc6e8e127")
 		)
@@ -10264,6 +11320,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 74.93 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 74.93 151.13 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 74.93 151.13 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 74.93 151.13 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10510,6 +11599,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 130.81 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 130.81 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 130.81 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "aeea4c23-30bf-43c9-8691-23a2a5af1b8d")
 		)
@@ -10674,6 +11796,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 29.21 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 29.21 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 29.21 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "eb4ff9e5-c8d6-46f2-808c-7cf49967bd11")
 		)
@@ -10744,6 +11899,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 74.93 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 74.93 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 74.93 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 74.93 25.4 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10824,6 +12012,39 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 106.68 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 106.68 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "311-4.70KCRCT-ND"
+			(at 106.68 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
 			(at 106.68 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -10993,6 +12214,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 130.81 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 130.81 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 130.81 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "09872704-b9de-49d7-9d88-3d1c8f1f2bfa")
 		)
@@ -11072,6 +12326,39 @@
 		)
 		(property "Description" "SSD1306 0.96 inch 128x64 OLED display module, I2C"
 			(at 115.57 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" "https://www.amazon.com/Hosyond-Display-Self-Luminous-Compatible-Raspberry/dp/B09T6SJBV5/ref=sr_1_4?crid=SJEZ59RG0EXX&dib=eyJ2IjoiMSJ9.wmW83Dmxfyl5RxdfjV1gHlwW13m-YNHOj_O7pUk8C5jqJYmRzq8MacywKWg5Dv2wmTaVyFZq2CxJDegbdNCAR7YCxPvEYPSXaQ29l_P4t78CRgBcuujnHc1YsW1g4L53WwoYLrs9QF-DHdK9tX7So8-3avAB1W46d9m1Zp4Daio-rdwJ2rlZ8YdP46bWSKFZo3_81_99zPjPqwSeY-mnpFa_skBZWjTpecRsbb56ts4.2h1lB8eYb9ngRfmEiE-NLUmpky863PITFuJGxDF_kOg&dib_tag=se&keywords=ssd1306&qid=1793919438&sprefix=ssd1306%2Caps%2C173&sr=8-4"
+			(at 115.57 212.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" ""
+			(at 115.57 212.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 115.57 212.09 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11166,6 +12453,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 119.38 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 119.38 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 119.38 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "34c380be-fd4d-4849-be74-86f3b39cd5f4")
 		)
@@ -11236,6 +12556,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 29.21 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 29.21 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 29.21 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 29.21 138.43 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11551,6 +12904,39 @@
 			)
 		)
 		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 40.64 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 40.64 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 40.64 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
 			(at 40.64 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -11882,6 +13268,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 74.93 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 74.93 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 74.93 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0a0ebfac-d6bf-4d98-a466-6763a4196b3c")
 		)
@@ -12199,6 +13618,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 46.99 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "311-4.70KCRCT-ND"
+			(at 46.99 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 46.99 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b11ab6fe-84d3-481a-9c81-b5fa53851799")
 		)
@@ -12278,6 +13730,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 119.38 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 119.38 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 119.38 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "af814562-a5dc-477c-bad8-eadf989021ac")
 		)
@@ -12348,6 +13833,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 74.93 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 74.93 156.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 74.93 156.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 74.93 156.21 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12595,6 +14113,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 201.93 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "399-C0805C104K5RACTUCT-ND"
+			(at 201.93 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 201.93 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9e79d6de-5166-47b8-82e1-d3a2a6007d77")
 		)
@@ -12668,6 +14219,39 @@
 		)
 		(property "Description" "SSD1306 0.96 inch 128x64 OLED display module, I2C"
 			(at 60.96 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" "https://www.amazon.com/Hosyond-Display-Self-Luminous-Compatible-Raspberry/dp/B09T6SJBV5/ref=sr_1_4?crid=SJEZ59RG0EXX&dib=eyJ2IjoiMSJ9.wmW83Dmxfyl5RxdfjV1gHlwW13m-YNHOj_O7pUk8C5jqJYmRzq8MacywKWg5Dv2wmTaVyFZq2CxJDegbdNCAR7YCxPvEYPSXaQ29l_P4t78CRgBcuujnHc1YsW1g4L53WwoYLrs9QF-DHdK9tX7So8-3avAB1W46d9m1Zp4Daio-rdwJ2rlZ8YdP46bWSKFZo3_81_99zPjPqwSeY-mnpFa_skBZWjTpecRsbb56ts4.2h1lB8eYb9ngRfmEiE-NLUmpky863PITFuJGxDF_kOg&dib_tag=se&keywords=ssd1306&qid=1793919438&sprefix=ssd1306%2Caps%2C173&sr=8-4"
+			(at 60.96 193.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" ""
+			(at 60.96 193.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 60.96 193.04 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12841,6 +14425,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 29.21 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 29.21 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 29.21 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "677d44a4-ae3f-40f6-8e88-9cccbdf3fffe")
 		)
@@ -13000,6 +14617,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 86.36 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 86.36 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 86.36 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "6f91355d-ed47-4323-a0eb-69d73a2b60e1")
 		)
@@ -13088,6 +14738,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 255.27 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" ""
+			(at 255.27 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 255.27 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
@@ -13152,6 +14835,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 74.93 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 74.93 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 74.93 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 74.93 138.43 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13232,6 +14948,39 @@
 			)
 		)
 		(property "Description" "8-bit serial in/out Shift Register 3-State Outputs"
+			(at 212.09 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 212.09 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" ""
+			(at 212.09 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" "771-74HC595D-Q100"
 			(at 212.09 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -13444,6 +15193,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 46.99 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "311-4.70KCRCT-ND"
+			(at 46.99 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 46.99 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4032f704-dffb-4302-b978-c30ea18291f2")
 		)
@@ -13594,6 +15376,39 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 101.6 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 101.6 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "311-4.70KCRCT-ND"
+			(at 101.6 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
 			(at 101.6 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -13762,6 +15577,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 29.21 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 29.21 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 29.21 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f4cfacc9-2581-4476-9e58-627cc3ec9945")
 		)
@@ -13832,6 +15680,39 @@
 			)
 		)
 		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 40.64 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 40.64 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 40.64 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
 			(at 40.64 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -13927,6 +15808,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 74.93 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 74.93 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 74.93 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3794adbe-c49b-4cc1-8dd9-3813482c09fd")
 		)
@@ -13997,6 +15911,39 @@
 			)
 		)
 		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 86.36 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 86.36 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 86.36 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
 			(at 86.36 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -14092,6 +16039,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 119.38 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 119.38 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 119.38 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "39ec1d40-228e-4cac-85c0-a8d591ec2156")
 		)
@@ -14163,6 +16143,39 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 46.99 260.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 46.99 260.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "311-4.70KCRCT-ND"
+			(at 46.99 260.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
 			(at 46.99 260.35 0)
 			(hide yes)
 			(show_name no)
@@ -14253,6 +16266,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 130.81 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 130.81 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 130.81 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "e4701fb6-547f-4798-818d-946c8ea3a4ee")
 		)
@@ -14329,6 +16375,39 @@
 			)
 		)
 		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 86.36 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 86.36 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 86.36 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
 			(at 86.36 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -14583,6 +16662,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" "https://www.amazon.com/Hosyond-Display-Self-Luminous-Compatible-Raspberry/dp/B09T6SJBV5/ref=sr_1_4?crid=SJEZ59RG0EXX&dib=eyJ2IjoiMSJ9.wmW83Dmxfyl5RxdfjV1gHlwW13m-YNHOj_O7pUk8C5jqJYmRzq8MacywKWg5Dv2wmTaVyFZq2CxJDegbdNCAR7YCxPvEYPSXaQ29l_P4t78CRgBcuujnHc1YsW1g4L53WwoYLrs9QF-DHdK9tX7So8-3avAB1W46d9m1Zp4Daio-rdwJ2rlZ8YdP46bWSKFZo3_81_99zPjPqwSeY-mnpFa_skBZWjTpecRsbb56ts4.2h1lB8eYb9ngRfmEiE-NLUmpky863PITFuJGxDF_kOg&dib_tag=se&keywords=ssd1306&qid=1793919438&sprefix=ssd1306%2Caps%2C173&sr=8-4"
+			(at 60.96 233.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" ""
+			(at 60.96 233.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 60.96 233.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "61f09708-a1b8-4c86-8e5f-352211102b5d")
 		)
@@ -14659,6 +16771,39 @@
 			)
 		)
 		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 40.64 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 40.64 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 40.64 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
 			(at 40.64 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -14833,6 +16978,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 119.38 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 119.38 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 119.38 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5d05df33-6b7f-474b-b9ae-cca408d1143e")
 		)
@@ -14903,6 +17081,39 @@
 			)
 		)
 		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 130.81 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 130.81 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 130.81 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
 			(at 130.81 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -14999,6 +17210,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 40.64 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 40.64 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 40.64 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "bec3bcb1-e920-4515-b64c-68c04fcc28db")
 		)
@@ -15084,6 +17328,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 74.93 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 74.93 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 74.93 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "21362a6d-2052-4aa8-8427-d51b85b9979d")
 		)
@@ -15157,6 +17434,39 @@
 		)
 		(property "Description" "SSD1306 0.96 inch 128x64 OLED display module, I2C"
 			(at 115.57 191.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" "https://www.amazon.com/Hosyond-Display-Self-Luminous-Compatible-Raspberry/dp/B09T6SJBV5/ref=sr_1_4?crid=SJEZ59RG0EXX&dib=eyJ2IjoiMSJ9.wmW83Dmxfyl5RxdfjV1gHlwW13m-YNHOj_O7pUk8C5jqJYmRzq8MacywKWg5Dv2wmTaVyFZq2CxJDegbdNCAR7YCxPvEYPSXaQ29l_P4t78CRgBcuujnHc1YsW1g4L53WwoYLrs9QF-DHdK9tX7So8-3avAB1W46d9m1Zp4Daio-rdwJ2rlZ8YdP46bWSKFZo3_81_99zPjPqwSeY-mnpFa_skBZWjTpecRsbb56ts4.2h1lB8eYb9ngRfmEiE-NLUmpky863PITFuJGxDF_kOg&dib_tag=se&keywords=ssd1306&qid=1793919438&sprefix=ssd1306%2Caps%2C173&sr=8-4"
+			(at 115.57 191.77 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" ""
+			(at 115.57 191.77 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 115.57 191.77 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15333,6 +17643,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 300.99 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" ""
+			(at 300.99 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" "771-74HC595D-Q100"
+			(at 300.99 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "5e355c59-8794-49cc-a6de-2c70c31b0e78")
 		)
@@ -15454,6 +17797,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 29.21 156.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 29.21 156.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 29.21 156.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c731f32d-e9b8-4c45-8028-c579813e49d9")
 		)
@@ -15527,6 +17903,39 @@
 		)
 		(property "Description" "SSD1306 0.96 inch 128x64 OLED display module, I2C"
 			(at 60.96 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" "https://www.amazon.com/Hosyond-Display-Self-Luminous-Compatible-Raspberry/dp/B09T6SJBV5/ref=sr_1_4?crid=SJEZ59RG0EXX&dib=eyJ2IjoiMSJ9.wmW83Dmxfyl5RxdfjV1gHlwW13m-YNHOj_O7pUk8C5jqJYmRzq8MacywKWg5Dv2wmTaVyFZq2CxJDegbdNCAR7YCxPvEYPSXaQ29l_P4t78CRgBcuujnHc1YsW1g4L53WwoYLrs9QF-DHdK9tX7So8-3avAB1W46d9m1Zp4Daio-rdwJ2rlZ8YdP46bWSKFZo3_81_99zPjPqwSeY-mnpFa_skBZWjTpecRsbb56ts4.2h1lB8eYb9ngRfmEiE-NLUmpky863PITFuJGxDF_kOg&dib_tag=se&keywords=ssd1306&qid=1793919438&sprefix=ssd1306%2Caps%2C173&sr=8-4"
+			(at 60.96 212.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" ""
+			(at 60.96 212.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 60.96 212.09 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15622,6 +18031,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 40.64 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 40.64 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 40.64 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "9db903d1-cbb4-4460-8744-413f4570541a")
 		)
@@ -15698,6 +18140,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 74.93 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 74.93 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 74.93 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 74.93 115.57 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15867,6 +18342,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 293.37 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "399-C0805C104K5RACTUCT-ND"
+			(at 293.37 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 293.37 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "67331353-ba7f-4c8f-abc0-c2adbe3fc858")
 		)
@@ -15937,6 +18445,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 74.93 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 74.93 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 74.93 120.65 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 74.93 120.65 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16028,6 +18569,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 255.27 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" ""
+			(at 255.27 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 255.27 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "WISP_display_board"
 				(path "/4a222f75-ae48-43ab-98b3-32bcb2ee1734"
@@ -16092,6 +18666,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 29.21 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 29.21 151.13 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 29.21 151.13 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 29.21 151.13 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16250,6 +18857,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 29.21 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 29.21 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 29.21 97.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 29.21 97.79 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16420,6 +19060,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 209.55 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" ""
+			(at 209.55 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" "771-74HC595D-Q100"
+			(at 209.55 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "7e4292b9-ccd8-4d48-b11e-46fa2d66838e")
 		)
@@ -16542,6 +19215,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 40.64 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 40.64 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 40.64 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "02f0865e-a7b3-4182-9e52-3ec69f80c348")
 		)
@@ -16618,6 +19324,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 29.21 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 29.21 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 29.21 115.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 29.21 115.57 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16785,6 +19524,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 74.93 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 74.93 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 74.93 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "49e2f04c-087a-46cf-ad97-925e579dcbbc")
 		)
@@ -16933,6 +19705,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 119.38 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 119.38 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 119.38 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 119.38 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17091,6 +19896,39 @@
 			)
 		)
 		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 40.64 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 40.64 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 40.64 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
 			(at 40.64 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -17334,6 +20172,39 @@
 		)
 		(property "Description" "Resistor"
 			(at 74.93 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 74.93 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 74.93 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 74.93 60.96 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17659,6 +20530,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 29.21 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 29.21 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 29.21 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f8962236-94de-4c5a-8846-7f038863e378")
 		)
@@ -17738,6 +20642,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 29.21 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 29.21 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 29.21 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "48ed27c8-60b0-4b1c-8b6a-bc9ca24f2eac")
 		)
@@ -17808,6 +20745,39 @@
 			)
 		)
 		(property "Description" "Dual LED, cathodes on pins 2 and 4"
+			(at 86.36 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 86.36 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 86.36 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
 			(at 86.36 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -17982,6 +20952,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 29.21 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "RMCF0805FT750RCT-ND"
+			(at 29.21 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 29.21 102.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "030e1553-678c-4e80-b7e9-154aec35292e")
 		)
@@ -18139,6 +21142,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 86.36 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "754-1962-1-ND"
+			(at 86.36 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 86.36 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "68a92166-116e-4308-8e65-722e4818590c")
 		)
@@ -18216,6 +21252,39 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 52.07 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 52.07 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "311-4.70KCRCT-ND"
+			(at 52.07 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
 			(at 52.07 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -18543,6 +21612,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 204.47 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "399-C0805C104K5RACTUCT-ND"
+			(at 204.47 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 204.47 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "86819099-3bbc-4e43-8691-63709a97e2d2")
 		)
@@ -18781,6 +21883,39 @@
 				)
 			)
 		)
+		(property "Amazon Link" ""
+			(at 106.68 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "311-4.70KCRCT-ND"
+			(at 106.68 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
+			(at 106.68 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0556aa3a-3a7d-4a90-80e1-f900d75b365b")
 		)
@@ -18853,6 +21988,39 @@
 			)
 		)
 		(property "Description" "Low voltage 8-channel I2C switch with reset, TSSOP-24"
+			(at 171.45 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 171.45 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" ""
+			(at 171.45 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" "595-PCA9548APWR"
 			(at 171.45 222.25 0)
 			(hide yes)
 			(show_name no)
@@ -19000,6 +22168,39 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 101.6 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Amazon Link" ""
+			(at 101.6 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey Part #" "311-4.70KCRCT-ND"
+			(at 101.6 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part #" ""
 			(at 101.6 215.9 0)
 			(hide yes)
 			(show_name no)
